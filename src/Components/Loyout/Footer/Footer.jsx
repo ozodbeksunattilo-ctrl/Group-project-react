@@ -41,7 +41,7 @@ function Footer() {
       </div>
 
       <div className="border-t border-slate-800 mt-10 pt-6 text-center text-gray-500">
-        © 2026 BE Project. All Rights Reserved.
+        © 2026 BE Project. All Rights Reserveds.
       </div>
     </footer>
   );
