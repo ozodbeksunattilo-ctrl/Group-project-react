@@ -39,7 +39,7 @@ function Main() {
             </span>
 
             <h1 className="text-6xl font-bold leading-tight mt-8">
-              Build Powerful
+              Build Powerfuly
               <span className="text-cyan-400"> Backend </span>
               Applications
             </h1>
